@@ -24,6 +24,11 @@
 # Les objectifs du projet - Messagerie instantanée
 
 Possibilité d'écrire des messages instantanées depuis 2 fenêtres ouvertes et connectées sur http://localhost:3000/.
+Dans le terminal : 
+
+* `npm i`
+* `node server.js`
+* Cliquer sur le lien `http://localhost:3000/`
 
 Possibilité d'entrer un pseudo.
 
